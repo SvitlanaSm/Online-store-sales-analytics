@@ -1,6 +1,6 @@
 # Online-store-sales-analytics
 📌 **Project Overview**  
-This project is focused on analyzing user session data collected from a web platform using tools such as Google Analytics. The dataset includes information about user devices, geographic location, session details, product views, and more. The goal is to gain actionable insights about user behavior, content performance, and marketing effectiveness.  
+This project is focused on analyzing user session data collected from a web platform. The dataset includes information about user devices, geographic location, session details, product views, and more. The goal is to gain actionable insights about user behavior, content performance, and marketing effectiveness.  
 
 ✅ Platform: SQL, Google Colab, Tabeau
 📂 Dataset size: 349,545 rows × 18 columns
